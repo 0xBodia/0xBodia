@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi world! 👋
 
 <!--
 **0xBodia/0xBodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
